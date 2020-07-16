@@ -1,0 +1,17 @@
+Create GitHub
+https://github.com/bbahavati/CommunityPrintServices
+
+Add an MVC Controller
+Add a MVC View
+Add a MVC Data Access Layer (preferably Entity Framework)
+Add a Mod Layer
+Create Razor HTML Page using C#
+Create CSS for HTML Page
+Add Java Script
+Add JQuery min & max scripts
+
+
+Add Azure WebServer in Azure.
+Setup SQL Server Database in Azure.
+
+
